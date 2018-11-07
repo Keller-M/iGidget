@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">I Buy</string>
+    <string name="UserTextV">Username:</string>
+    <string name="PassTextV">Pssword:</string>
+    <string name="UserInText">Insert Here</string>
+    <string name="PassInText">Insert Here</string>
+    <string name="login_btn">Login</string>
+    <string name="tab_left">Left</string>
+    <string name="tab_right">Right</string>
+</resources>
